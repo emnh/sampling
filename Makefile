@@ -1,3 +1,3 @@
-
+CPPFLAGS=-g
 
 all: main
